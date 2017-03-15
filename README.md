@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Install (nodejs)[https://nodejs.org/]
+- Install [nodejs](https://nodejs.org/)
 
 ## Installation
 
