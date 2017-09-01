@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders xmlns="NAVProductionOrder">
+  <Order No="RO0000010" Description="VAN MOUNT KIT" AssignedUserID="">
+    <Item No="T0100" Revision="05" Description="VAN MOUNT KIT" Quantity="1PCS" Detail="" ItemCategoryCode="ASM" ItemTrackingCode="SNSPECIFIC" PV="14855">
+      <SN>SN3410010</SN>
+      <Vendor />
+      <Item No="C0000.04" Revision="" Description="SCREW, M2 ,SKT, CAP, SST, HEX DR" Detail="4mm" ItemCategoryCode="CONS" ItemTrackingCode="" Order="19" PV="750" Quantity="30PCS" Bins="" />
+      <Item No="A0284" Revision="09" Description="ASSY, PCA, PULSE AMPLIFIER" Detail="0" ItemCategoryCode="ASM" ItemTrackingCode="SNSPECIFIC" Order="1" PV="14298" Quantity="6PCS" Bins="" />
+    </Item>
+    <Item No="A0284" Revision="09" Description="ASSY, PCA, PULSE AMPLIFIER" Quantity="6PCS" Detail="0" ItemCategoryCode="ASM" ItemTrackingCode="SNSPECIFIC" Order="1" PV="14298">
+      <SN>SN3410011</SN>
+      <SN>SN3410012</SN>
+      <SN>SN3410013</SN>
+      <SN>SN3410014</SN>
+      <SN>SN3410015</SN>
+      <SN>SN3410016</SN>
+      <Vendor />
+      <Item No="C1506.470P" Revision="00" Description="CAP, Y TYPE, 2KV" Detail="470PF,  2KV, Radial, 7.5mm Pitch" ItemCategoryCode="CONS" ItemTrackingCode="" Order="7" PV="14369" Quantity="2PCS" Bins="" />
+      <Item No="M2060" Revision="03" Description="SHIELD, PULSE AMPLIFIER CIRCUITS" Detail="Shield to contain electronic components on pcb" ItemCategoryCode="CONS" ItemTrackingCode="" Order="2" PV="9513" Quantity="4PCS" Bins="" />
+      <Item No="A0824" Revision="01" Description="ASSY, PCA, PULSE AMPLIFIER" Detail="0" ItemCategoryCode="ASM" ItemTrackingCode="SNSPECIFIC" PV="14297" Quantity="1PCS" Bins="" />
+    </Item>
+    <Item No="A0824" Revision="01" Description="ASSY, PCA, PULSE AMPLIFIER" Quantity="6PCS" Detail="0" ItemCategoryCode="ASM" ItemTrackingCode="SNSPECIFIC" PV="14297">
+      <SN>SN3410017</SN>
+      <SN>SN3410018</SN>
+      <SN>SN3410019</SN>
+      <SN>SN3410020</SN>
+      <SN>SN3410021</SN>
+      <SN>SN3410022</SN>
+      <Vendor />
+      <Item No="C0333" Revision="00" Description="CONN, MDLR JACK, RTANG, LOW PF, SHIELDED" Detail="RJ45, 8P8C, THRU HOLE" ItemCategoryCode="CONS" ItemTrackingCode="" Order="38" PV="1155" Quantity="1PCS" Bins="" />
+      <Item No="C0448" Revision="00" Description="CONN, BNC, FEMALE" Detail="50R, PCB MOUNT, RIGHT ANGLE" ItemCategoryCode="CONS" ItemTrackingCode="" Order="17" PV="1761" Quantity="1PCS" Bins="" />
+      <Item No="C1232" Revision="00" Description="TRANSISTOR, NPN, BFR92A" Detail="SMT, SOT23, 5GHz" ItemCategoryCode="CONS" ItemTrackingCode="" Order="22" PV="5633" Quantity="5PCS" Bins="" />
+      <Item No="C0302.150R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="150R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="16" PV="3111" Quantity="1PCS" Bins="" />
+      <Item No="C0302.10R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="10R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="9" PV="2745" Quantity="13PCS" Bins="" />
+      <Item No="C0302.100R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="100R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="7" PV="1024" Quantity="9PCS" Bins="" />
+      <Item No="C0302.1K8" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="1K8" ItemCategoryCode="CONS" ItemTrackingCode="" Order="9" PV="5916" Quantity="9PCS" Bins="" />
+      <Item No="C0302.0R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="0R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="77" PV="1006" Quantity="1PCS" Bins="" />
+      <Item No="C0302.27R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="27R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="64" PV="4659" Quantity="3PCS" Bins="" />
+      <Item No="C0302.680R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="680R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="21" PV="9204" Quantity="4PCS" Bins="" />
+      <Item No="M1274" Revision="05" Description="PCB, BARE, PULSE AMPLIFIER" Detail="0" ItemCategoryCode="PART" ItemTrackingCode="" Order="1" PV="14271" Quantity="1PCS" Bins="" />
+      <Item No="C1252" Revision="00" Description="CLIP, PLANAR" Detail="Spring steel for E14 E-Cores" ItemCategoryCode="CONS" ItemTrackingCode="" Order="8" PV="5646" Quantity="4PCS" Bins="" />
+      <Item No="C1250" Revision="00" Description="FERRITE, E-CORE, PLANAR" Detail="VHF, ferrite E-14" ItemCategoryCode="CONS" ItemTrackingCode="" Order="13" PV="5644" Quantity="4PCS" Bins="" />
+      <Item No="C1251" Revision="00" Description="FERRITE, PLATE, PLANAR" Detail="VHF, ferrite, E-14" ItemCategoryCode="CONS" ItemTrackingCode="" Order="14" PV="5645" Quantity="4PCS" Bins="" />
+      <Item No="C0302.18R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="18R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="23" PV="9069" Quantity="3PCS" Bins="" />
+      <Item No="C0302.220R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="220R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="11" PV="4658" Quantity="1PCS" Bins="" />
+      <Item No="C0302.470R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="470R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="61" PV="1011" Quantity="2PCS" Bins="" />
+      <Item No="C0302.47R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="47R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="27" PV="1028" Quantity="1PCS" Bins="" />
+      <Item No="C0302.68R" Revision="00" Description="RES, SMT, 0603, 1%, 0.1W" Detail="68R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="60" PV="1007" Quantity="1PCS" Bins="" />
+      <Item No="C0318" Revision="00" Description="TRANSISTOR, NPN, BC847C" Detail="SMT, SOT23" ItemCategoryCode="CONS" ItemTrackingCode="" Order="32" PV="1125" Quantity="1PCS" Bins="" />
+      <Item No="C0325" Revision="00" Description="TRANSISTOR, PNP, BC857C" Detail="SMT, SOT23" ItemCategoryCode="CONS" ItemTrackingCode="" Order="33" PV="1140" Quantity="2PCS" Bins="" />
+      <Item No="C0321.RED" Revision="00" Description="LED, SMD" Detail="RED, CLEAR, 30mA, PLCC-2" ItemCategoryCode="CONS" ItemTrackingCode="" Order="72" PV="1133" Quantity="2PCS" Bins="" />
+      <Item No="C1491" Revision="00" Description="IC, VOLTAGE REGULATOR, MC78M05C, +5V" Detail="3-LEAD DPAK" ItemCategoryCode="CONS" ItemTrackingCode="" Order="31" PV="7593" Quantity="1PCS" Bins="" />
+      <Item No="C0297" Revision="00" Description="IC, VOLTAGE REGULATOR, MC79M05CDTG, -5V" Detail="3-LEAD DPAK" ItemCategoryCode="CONS" ItemTrackingCode="" Order="67" PV="1088" Quantity="1PCS" Bins="" />
+      <Item No="C1668.1U" Revision="00" Description="CAP, CERAMIC, 16V, 0603, X5R" Detail="1uF" ItemCategoryCode="CONS" ItemTrackingCode="" Order="2" PV="9459" Quantity="2PCS" Bins="" />
+      <Item No="C1302.100N" Revision="00" Description="CAP, SMT, 0603, X7R, 50V" Detail="100N, X7R, 50V, +/- 10%" ItemCategoryCode="CONS" ItemTrackingCode="" Order="43" PV="9073" Quantity="20PCS" Bins="" />
+      <Item No="C0301.4N7" Revision="00" Description="CAP, SMT, 0603, Y5V, 50V" Detail="4N7" ItemCategoryCode="CONS" ItemTrackingCode="" Order="14" PV="1031" Quantity="4PCS" Bins="" />
+      <Item No="C1692.47U" Revision="00" Description="CAP, RADIAL, PLRZD, 105degC, 63V" Detail="47U, 10mm dia, 5mm pitch, 12mm high" ItemCategoryCode="CONS" ItemTrackingCode="" Order="3" PV="9516" Quantity="2PCS" Bins="" />
+      <Item No="C0301.1N" Revision="00" Description="CAP, SMT, 0603, Y5V, 50V" Detail="1N" ItemCategoryCode="CONS" ItemTrackingCode="" Order="4" PV="1026" Quantity="1PCS" Bins="" />
+      <Item No="C1466" Revision="00" Description="COMPONENT, NO FIT" Detail="*** NO FIT  ***" ItemCategoryCode="CONS" ItemTrackingCode="" Order="16" PV="7444" Quantity="4PCS" Bins="" />
+      <Item No="C0436" Revision="00" Description="DIODE, BAV21, HIGH SPEED" Detail="BAV21, AXIAL, 5mm P" ItemCategoryCode="CONS" ItemTrackingCode="" Order="12" PV="1544" Quantity="2PCS" Bins="" />
+      <Item No="C0313.10R" Revision="00" Description="RES, SMT, 2512, 1W, 200V" Detail="10R" ItemCategoryCode="CONS" ItemTrackingCode="" Order="30" PV="8211" Quantity="2PCS" Bins="" />
+    </Item>
+  </Order>
+</Orders>
